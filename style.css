@@ -6,6 +6,8 @@ body{
 			padding:0;
 			width:1024px;
 			height:auto;
+			line-height: 150%;
+			font-size: 17px;
 		}
 		header{
 			background-color:#333333;
@@ -35,7 +37,7 @@ body{
 		#bio-image{
 			float:left;
 			width:200px;
-			margin:10px;
+			margin-right:20px;
 		}
 		a {
 			color:#d21034;
